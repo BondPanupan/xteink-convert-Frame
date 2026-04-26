@@ -4,9 +4,9 @@ const archiver = require("archiver");
 
 const inputFolder = "./output";
 const epubFolder = "./epub";
-const outputEpub = "./epub/imperfection.epub";
+const outputEpub = "./epub/imperfection-02.epub";
 
-const BOOK_TITLE = "imperfection";
+const BOOK_TITLE = "imperfection-02";
 const BOOK_AUTHOR = "Author";
 const BOOK_LANGUAGE = "th";
 

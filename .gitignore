@@ -38,5 +38,6 @@ next-env.d.ts
 /epub/*
 /images/*
 /output/*
+/note
 
 package-lock.json

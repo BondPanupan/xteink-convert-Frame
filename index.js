@@ -3,7 +3,7 @@ const path = require("path");
 const sharp = require("sharp");
 // const archiver = require("archiver");
 
-const inputFolder = "./images/imperfection";
+const inputFolder = "./images/imperfection-02";
 const outputFolder = "./output";
 const epubFolder = "./epub";
 
